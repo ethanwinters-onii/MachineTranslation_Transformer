@@ -4,3 +4,5 @@ Dữ liệu được lấy từ The Stanford NLP Group: IWSLT'15 English-Vietnam
 Link: https://nlp.stanford.edu/projects/nmt/
 ## 2. Checkpoints
 Google Driver: https://drive.google.com/drive/folders/10RJUhSVWSLoal7W0q8CnXrO-PEaKRJGd?usp=sharing
+## 3. Set up environment anaconda
+conda env create -f environment.yml
